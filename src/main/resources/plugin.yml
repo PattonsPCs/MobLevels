@@ -1,0 +1,5 @@
+name: mobLevels
+version: '1.0-SNAPSHOT'
+main: com.anthony.mobLevels.MobLevels
+api-version: '1.21'
+load: STARTUP
